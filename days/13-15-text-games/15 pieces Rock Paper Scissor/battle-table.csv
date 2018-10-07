@@ -1,0 +1,6 @@
+Attacker,rock,paper,scissor,lizard,spock
+rock,Draw,False,True,True,False
+paper,True,Draw,False,False,True
+scissor,False,True,Draw,True,False
+lizard,False,True,False,Draw,True
+spock,True,False,True,False,Draw
